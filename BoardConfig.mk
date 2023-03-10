@@ -107,7 +107,7 @@ TW_MAX_BRIGHTNESS := 1023
 TW_DEFAULT_BRIGHTNESS := 420
 TW_THEME := portrait_hdpi
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /config/usb_gadget/g1/functions/mass_storage.0/lun.%d/file
-TARGET_RECOVERY_PIXEL_FORMAT := BGRA_8888
+
 TW_NO_SCREEN_BLANK := true
 TW_USE_TOOLBOX := true
 
